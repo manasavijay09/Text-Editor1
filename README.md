@@ -46,5 +46,17 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
 
+## Screes Shots.
+ ![alt text](<Screenshot (16).png>)
+  ![alt text](<Screenshot (17).png>)
+  ![alt text](<Screenshot (18)-1.png>)
+
+
+  ## screen shots of Diployed Application(Heroku)
+
+  ![alt text](<Screenshot (20).png>)
+
+  ## GitHub: https://github.com/manasavijay09/Text-Editor1
+
 
  
